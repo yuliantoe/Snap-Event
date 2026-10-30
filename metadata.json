@@ -1,0 +1,6 @@
+{
+  "name": "SnapLuxe - Real-Time Event Photobooth",
+  "description": "Professional event photobooth with real-time custom photo filters, photostrip layouts, instant QR social sharing, and live event slideshow.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
